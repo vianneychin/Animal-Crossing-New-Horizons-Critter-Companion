@@ -1,0 +1,17 @@
+{
+    "name": "acnhcc",
+    "version": "1.0.0",
+    "description": "Animal Crossing New Horizons Critter Companion App",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/vianneychin/Animal-Crossing-New-Horizons-Critter-Companion.git"
+    },
+    "keywords": [],
+    "author": "Vianney Chin",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/vianneychin/Animal-Crossing-New-Horizons-Critter-Companion/issues"
+    },
+    "homepage": "https://github.com/vianneychin/Animal-Crossing-New-Horizons-Critter-Companion#readme"
+}
